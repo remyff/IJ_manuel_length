@@ -1,4 +1,4 @@
-# IJ_manuel_length
+# ImageJ multi-point length
 Mesure the cumulative length and range from multipoint annotation on a 3D images
 Cumulative Length : summed distance between each point
 Range : distance between first and last point
